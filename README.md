@@ -1,5 +1,6 @@
 # Sales-dashboard-project
 "Advanced Excel Sales Dashboard Project"
+
 This Excel Sales Dashboard provides a consolidated view of order-wise sales performance, regional sales distribution, and future sales projections. It integrates multiple data sheets (Orders, Projections, Staff data) into a single interactive dashboard to support sales monitoring and business planning.
 
 🔹 What the Project Includes
